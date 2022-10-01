@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java MongoDB JavaScript & Frameworks**
 
-- 💬 Ask me about **Java, Html, CSS, JavaScript, React & SQLetc**
+- 💬 Ask me about **Java, Html, CSS, JavaScript, React & SQL etc**
 
 - 📫 How to reach me **gsmalok@gmail.com**
 
